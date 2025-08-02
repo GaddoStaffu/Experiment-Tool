@@ -1,6 +1,6 @@
 # 🎮 OBS + Browser Game Control Tool
 
-This is a small experimental tool that provides a GUI to **start OBS screen recording** and **launch a browser game (or any website)** simultaneously with one button click. It also allows you to **stop recording and exit the app** cleanly.
+This is a small experimental tool that provides a GUI to **start OBS screen recording** and **launch a browser game (or any website)** simultaneously with one button click. It also allows the users to **start and stop recording** cleanly without the help of the researcher.
 
 Built with:
 - 🖥️ Python
