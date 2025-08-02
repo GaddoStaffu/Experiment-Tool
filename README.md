@@ -24,8 +24,8 @@ Built with:
 Ideal for:
 - Game recording experiments
 - UX research tools
-- Quick-start setups for YouTubers, streamers, or testers
 - Automating screen recording with web-based applications or games
+- Synchronous Gameplay Recording
 
 ---
 
