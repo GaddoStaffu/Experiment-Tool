@@ -25,7 +25,6 @@ Ideal for:
 - Game recording experiments
 - UX research tools
 - Automating screen recording with web-based applications or games
-- Synchronous Gameplay Recording
 
 ---
 
